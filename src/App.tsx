@@ -1,6 +1,8 @@
+import UseLocalStorageComponent from "./useLocalStorage/UseLocalStorageComponent"
+
 function App() {
   return (
-    
+    <UseLocalStorageComponent />
   )
 }
 
